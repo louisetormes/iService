@@ -1,0 +1,71 @@
+@charset "utf-8";
+
+.body {
+	background-color: #FFFAF0;
+}
+
+.title {
+	color: khaki;
+	font-family: 'Trebuchet MS', sans-serif;
+	text-align: center;
+}
+
+.cadastro {
+	color: khaki;
+	font-family: 'Trebuchet MS', sans-serif;
+	
+}
+
+ .fundocadastro {
+             background: #FFFACD;
+                border: 1px solid white;
+                padding-top: 30px;
+                padding-right: 100px;
+                padding-left: 50px;
+                padding-bottom: 30px;
+                width: 700px;
+                margin-top: 50px;
+                margin-right: 50px;
+                margin-bottom: 50px;
+                margin-left: 50px;
+                float: top;
+                border-radius: 20px;
+           } 
+
+
+
+.botao1 {
+	width: 10%;
+	padding: 09px 11px;
+	margin: 8px 0;
+	box-sizing: inherit;
+	background-color: khaki;
+	color: white;
+	border-radius: 12px;
+	text-align: center;
+}
+
+.caixa1 {
+	width: 110%;
+	padding: 09px 11px;
+	margin: 8px 0;
+	box-sizing: inherit;
+	background-color: khaki;
+	color: black;
+	border-radius: 12px;
+	border: 0;
+	
+	
+}
+
+#caixa3 {
+	width: 80%;
+	padding: 09px 11px;
+	margin: 8px 0;
+	box-sizing: inherit;
+	background-color: gray;
+	color: black;
+	border-radius: 12px;
+	border: 0;
+}
+
